@@ -3,6 +3,8 @@
 Here is the code of paper '**Leveraging Undiagnosed Data for Glaucoma Classification with Teacher-Student Learning**'. The paper has been accepted by MICCAI 2020.
 arxiv: https://arxiv.org/abs/2007.11355
 
+![image-20200420153752369](https://github.com/WuJunde/Semi-supervised-Glaucoma-Detection/blob/main/framework.png)
+
 ### Requirements
 
 ![image-20200420153752369](https://github.com/WuJunde/Semi-supervised-Glaucoma-Detection/blob/main/image-20200420153752369.png)
